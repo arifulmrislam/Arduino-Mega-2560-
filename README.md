@@ -31,12 +31,18 @@
   
   The sensed current and the output signal can be:
   
-  Alternating current input, 
+  Alternating current input,
+  
   Analog output, which duplicates the wave shape of the sensed current.
+  
   Bipolar output, which duplicates the wave shape of the sensed current.
+  
   Unipolar output, which is proportional to the average or RMS value of the sensed current.
-  Direct current input, 
+  
+  Direct current input,
+  
   Unipolar, with a unipolar output, which duplicates the wave shape of the sensed current.
+  
   Digital output, which switches when the sensed current exceeds a certain threshold.
   
    <img src= "Picture3.jpg" width=400>  <img src= "Picture4.jpg" width=400>
