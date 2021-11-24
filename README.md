@@ -9,7 +9,7 @@
   The Mega 2560 board is compatible with most shields designed for the Uno and the former boards 	Duemilanove or Decimal. The Mega 2560 is an update to the Arduino Mega, 
   which it replaces.
   
-  <img src= "Picture1.png" width=600>
+  <img src= "Picture1.jpg" width=600>
   
   4 channel relay module:
   
@@ -39,7 +39,7 @@
   Unipolar, with a unipolar output, which duplicates the wave shape of the sensed current.
   Digital output, which switches when the sensed current exceeds a certain threshold.
   
-   <img src= "Picture3.png" width=600>  <img src= "Picture4.png" width=600>
+   <img src= "Picture3.jpg" width=600>  <img src= "Picture4.jpg" width=600>
    
 🚩 Connect with me on social
 - LinkedIn: https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/
