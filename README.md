@@ -24,7 +24,7 @@
 
   A current sensor :
   
-	As a device that detects electric current in a wire and generates a signal proportional to that current. 
+  	As a device that detects electric current in a wire and generates a signal proportional to that current. 
   The generated 	signal could be analog voltage or current or even a digital output. 
   The generated signal can be then used to display 	the measured current in an ammeter or can be stored for further analysis in a data acquisition system or 
   can be used 	for the purpose of control.
@@ -39,7 +39,7 @@
   Unipolar, with a unipolar output, which duplicates the wave shape of the sensed current.
   Digital output, which switches when the sensed current exceeds a certain threshold.
   
-   <img src= "Picture3.jpg" width=600>  <img src= "Picture4.jpg" width=600>
+   <img src= "Picture3.jpg" width=400>  <img src= "Picture4.jpg" width=400>
    
 🚩 Connect with me on social
 - LinkedIn: https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/
